@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://0nk1u67umhec"
 path.s3tc="res://.godot/imported/giuong1_bedspring_Metallic-bedspring_Roughness.png-9c1b9fd2ac57d297a6edbd7468d8d7a8.s3tc.ctex"
+path.etc2="res://.godot/imported/giuong1_bedspring_Metallic-bedspring_Roughness.png-9c1b9fd2ac57d297a6edbd7468d8d7a8.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/giuong1_bedspring_Metallic-bedspring_Roughness.png"
-dest_files=["res://.godot/imported/giuong1_bedspring_Metallic-bedspring_Roughness.png-9c1b9fd2ac57d297a6edbd7468d8d7a8.s3tc.ctex"]
+dest_files=["res://.godot/imported/giuong1_bedspring_Metallic-bedspring_Roughness.png-9c1b9fd2ac57d297a6edbd7468d8d7a8.s3tc.ctex", "res://.godot/imported/giuong1_bedspring_Metallic-bedspring_Roughness.png-9c1b9fd2ac57d297a6edbd7468d8d7a8.etc2.ctex"]
 
 [params]
 

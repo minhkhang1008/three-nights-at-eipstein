@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://u5kbrnf0huoq"
 path.s3tc="res://.godot/imported/GachLatSanNha.png-088a15f965b8532ccce6e9df1a5d660c.s3tc.ctex"
+path.etc2="res://.godot/imported/GachLatSanNha.png-088a15f965b8532ccce6e9df1a5d660c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/GachLatSanNha.png"
-dest_files=["res://.godot/imported/GachLatSanNha.png-088a15f965b8532ccce6e9df1a5d660c.s3tc.ctex"]
+dest_files=["res://.godot/imported/GachLatSanNha.png-088a15f965b8532ccce6e9df1a5d660c.s3tc.ctex", "res://.godot/imported/GachLatSanNha.png-088a15f965b8532ccce6e9df1a5d660c.etc2.ctex"]
 
 [params]
 

@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0ks3rulia4p4"
 path.s3tc="res://.godot/imported/column_3DModel_Retopo_Normal.jpg-c74087c96a621a747ca6c7f4156eda4a.s3tc.ctex"
+path.etc2="res://.godot/imported/column_3DModel_Retopo_Normal.jpg-c74087c96a621a747ca6c7f4156eda4a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/column_3DModel_Retopo_Normal.jpg"
-dest_files=["res://.godot/imported/column_3DModel_Retopo_Normal.jpg-c74087c96a621a747ca6c7f4156eda4a.s3tc.ctex"]
+dest_files=["res://.godot/imported/column_3DModel_Retopo_Normal.jpg-c74087c96a621a747ca6c7f4156eda4a.s3tc.ctex", "res://.godot/imported/column_3DModel_Retopo_Normal.jpg-c74087c96a621a747ca6c7f4156eda4a.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct770qqi62th"
 path.s3tc="res://.godot/imported/dog_dog_COL.jpg-27ba510958c4f024c7b6799458da0563.s3tc.ctex"
+path.etc2="res://.godot/imported/dog_dog_COL.jpg-27ba510958c4f024c7b6799458da0563.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/dog_dog_COL.jpg"
-dest_files=["res://.godot/imported/dog_dog_COL.jpg-27ba510958c4f024c7b6799458da0563.s3tc.ctex"]
+dest_files=["res://.godot/imported/dog_dog_COL.jpg-27ba510958c4f024c7b6799458da0563.s3tc.ctex", "res://.godot/imported/dog_dog_COL.jpg-27ba510958c4f024c7b6799458da0563.etc2.ctex"]
 
 [params]
 

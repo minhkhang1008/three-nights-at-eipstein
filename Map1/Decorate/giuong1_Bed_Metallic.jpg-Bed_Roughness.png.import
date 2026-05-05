@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://rdwcpo6tyjvx"
 path.s3tc="res://.godot/imported/giuong1_Bed_Metallic.jpg-Bed_Roughness.png-2390f07293adf2d016d588a5a56fafd2.s3tc.ctex"
+path.etc2="res://.godot/imported/giuong1_Bed_Metallic.jpg-Bed_Roughness.png-2390f07293adf2d016d588a5a56fafd2.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/giuong1_Bed_Metallic.jpg-Bed_Roughness.png"
-dest_files=["res://.godot/imported/giuong1_Bed_Metallic.jpg-Bed_Roughness.png-2390f07293adf2d016d588a5a56fafd2.s3tc.ctex"]
+dest_files=["res://.godot/imported/giuong1_Bed_Metallic.jpg-Bed_Roughness.png-2390f07293adf2d016d588a5a56fafd2.s3tc.ctex", "res://.godot/imported/giuong1_Bed_Metallic.jpg-Bed_Roughness.png-2390f07293adf2d016d588a5a56fafd2.etc2.ctex"]
 
 [params]
 

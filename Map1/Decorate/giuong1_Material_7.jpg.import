@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bimmrl4yylpur"
 path.s3tc="res://.godot/imported/giuong1_Material_7.jpg-adc1d22a8e45f709644a7dbb9d4e6fc4.s3tc.ctex"
+path.etc2="res://.godot/imported/giuong1_Material_7.jpg-adc1d22a8e45f709644a7dbb9d4e6fc4.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/giuong1_Material_7.jpg"
-dest_files=["res://.godot/imported/giuong1_Material_7.jpg-adc1d22a8e45f709644a7dbb9d4e6fc4.s3tc.ctex"]
+dest_files=["res://.godot/imported/giuong1_Material_7.jpg-adc1d22a8e45f709644a7dbb9d4e6fc4.s3tc.ctex", "res://.godot/imported/giuong1_Material_7.jpg-adc1d22a8e45f709644a7dbb9d4e6fc4.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bflseb7ukc4n3"
 path.s3tc="res://.godot/imported/MatTrongNgoiNha.jpg-671f043ad5f5b3acd679a93f65da2324.s3tc.ctex"
+path.etc2="res://.godot/imported/MatTrongNgoiNha.jpg-671f043ad5f5b3acd679a93f65da2324.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/MatTrongNgoiNha.jpg"
-dest_files=["res://.godot/imported/MatTrongNgoiNha.jpg-671f043ad5f5b3acd679a93f65da2324.s3tc.ctex"]
+dest_files=["res://.godot/imported/MatTrongNgoiNha.jpg-671f043ad5f5b3acd679a93f65da2324.s3tc.ctex", "res://.godot/imported/MatTrongNgoiNha.jpg-671f043ad5f5b3acd679a93f65da2324.etc2.ctex"]
 
 [params]
 

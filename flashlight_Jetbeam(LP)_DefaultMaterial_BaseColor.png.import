@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dh0gpms2l1jr"
 path.s3tc="res://.godot/imported/flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png-00cd14625b4e909de43e5811d2e2854c.s3tc.ctex"
+path.etc2="res://.godot/imported/flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png-00cd14625b4e909de43e5811d2e2854c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png"
-dest_files=["res://.godot/imported/flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png-00cd14625b4e909de43e5811d2e2854c.s3tc.ctex"]
+dest_files=["res://.godot/imported/flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png-00cd14625b4e909de43e5811d2e2854c.s3tc.ctex", "res://.godot/imported/flashlight_Jetbeam(LP)_DefaultMaterial_BaseColor.png-00cd14625b4e909de43e5811d2e2854c.etc2.ctex"]
 
 [params]
 

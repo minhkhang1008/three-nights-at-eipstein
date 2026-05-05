@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpbr7fulqo08s"
 path.s3tc="res://.godot/imported/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png-cc846de81b564adbfaf07191479855a7.s3tc.ctex"
+path.etc2="res://.godot/imported/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png-cc846de81b564adbfaf07191479855a7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png"
-dest_files=["res://.godot/imported/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png-cc846de81b564adbfaf07191479855a7.s3tc.ctex"]
+dest_files=["res://.godot/imported/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png-cc846de81b564adbfaf07191479855a7.s3tc.ctex", "res://.godot/imported/bucthu_Early 1900s Office Mail Opened_Metallic-Early 1900s Office Mail Opened_Roughness.png-cc846de81b564adbfaf07191479855a7.etc2.ctex"]
 
 [params]
 

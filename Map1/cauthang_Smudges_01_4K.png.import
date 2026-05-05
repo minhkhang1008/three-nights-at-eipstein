@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://wpj06fqweioo"
 path.s3tc="res://.godot/imported/cauthang_Smudges_01_4K.png-94f31af5c4c3170b68f53f2c643f3b8a.s3tc.ctex"
+path.etc2="res://.godot/imported/cauthang_Smudges_01_4K.png-94f31af5c4c3170b68f53f2c643f3b8a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/cauthang_Smudges_01_4K.png"
-dest_files=["res://.godot/imported/cauthang_Smudges_01_4K.png-94f31af5c4c3170b68f53f2c643f3b8a.s3tc.ctex"]
+dest_files=["res://.godot/imported/cauthang_Smudges_01_4K.png-94f31af5c4c3170b68f53f2c643f3b8a.s3tc.ctex", "res://.godot/imported/cauthang_Smudges_01_4K.png-94f31af5c4c3170b68f53f2c643f3b8a.etc2.ctex"]
 
 [params]
 

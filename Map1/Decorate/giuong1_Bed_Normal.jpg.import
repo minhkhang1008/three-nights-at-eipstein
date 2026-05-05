@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://coo4774gfcjyo"
 path.s3tc="res://.godot/imported/giuong1_Bed_Normal.jpg-829a7b90241518197db74d8f10320af7.s3tc.ctex"
+path.etc2="res://.godot/imported/giuong1_Bed_Normal.jpg-829a7b90241518197db74d8f10320af7.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/giuong1_Bed_Normal.jpg"
-dest_files=["res://.godot/imported/giuong1_Bed_Normal.jpg-829a7b90241518197db74d8f10320af7.s3tc.ctex"]
+dest_files=["res://.godot/imported/giuong1_Bed_Normal.jpg-829a7b90241518197db74d8f10320af7.s3tc.ctex", "res://.godot/imported/giuong1_Bed_Normal.jpg-829a7b90241518197db74d8f10320af7.etc2.ctex"]
 
 [params]
 

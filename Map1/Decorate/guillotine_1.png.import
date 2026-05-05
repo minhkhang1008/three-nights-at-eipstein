@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bt1dt57yn2ymx"
 path.s3tc="res://.godot/imported/guillotine_1.png-06dec3979547e9a5c3f34f28fb26cbce.s3tc.ctex"
+path.etc2="res://.godot/imported/guillotine_1.png-06dec3979547e9a5c3f34f28fb26cbce.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/guillotine_1.png"
-dest_files=["res://.godot/imported/guillotine_1.png-06dec3979547e9a5c3f34f28fb26cbce.s3tc.ctex"]
+dest_files=["res://.godot/imported/guillotine_1.png-06dec3979547e9a5c3f34f28fb26cbce.s3tc.ctex", "res://.godot/imported/guillotine_1.png-06dec3979547e9a5c3f34f28fb26cbce.etc2.ctex"]
 
 [params]
 

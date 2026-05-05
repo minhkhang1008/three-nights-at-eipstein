@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://chumuegsortxf"
 path.s3tc="res://.godot/imported/dongho1_clock_wood_Normal_DirectX.jpg-0e312b40173c55f35c9406a080b7d62c.s3tc.ctex"
+path.etc2="res://.godot/imported/dongho1_clock_wood_Normal_DirectX.jpg-0e312b40173c55f35c9406a080b7d62c.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/dongho1_clock_wood_Normal_DirectX.jpg"
-dest_files=["res://.godot/imported/dongho1_clock_wood_Normal_DirectX.jpg-0e312b40173c55f35c9406a080b7d62c.s3tc.ctex"]
+dest_files=["res://.godot/imported/dongho1_clock_wood_Normal_DirectX.jpg-0e312b40173c55f35c9406a080b7d62c.s3tc.ctex", "res://.godot/imported/dongho1_clock_wood_Normal_DirectX.jpg-0e312b40173c55f35c9406a080b7d62c.etc2.ctex"]
 
 [params]
 

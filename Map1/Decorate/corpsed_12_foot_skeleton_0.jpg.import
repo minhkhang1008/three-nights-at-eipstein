@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvljxy8ar3sbc"
 path.s3tc="res://.godot/imported/corpsed_12_foot_skeleton_0.jpg-ceb478994323c1a06ed19de426b0d294.s3tc.ctex"
+path.etc2="res://.godot/imported/corpsed_12_foot_skeleton_0.jpg-ceb478994323c1a06ed19de426b0d294.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/corpsed_12_foot_skeleton_0.jpg"
-dest_files=["res://.godot/imported/corpsed_12_foot_skeleton_0.jpg-ceb478994323c1a06ed19de426b0d294.s3tc.ctex"]
+dest_files=["res://.godot/imported/corpsed_12_foot_skeleton_0.jpg-ceb478994323c1a06ed19de426b0d294.s3tc.ctex", "res://.godot/imported/corpsed_12_foot_skeleton_0.jpg-ceb478994323c1a06ed19de426b0d294.etc2.ctex"]
 
 [params]
 

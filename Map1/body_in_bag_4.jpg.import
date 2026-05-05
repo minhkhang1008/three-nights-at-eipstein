@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://vhgfcd03kuap"
 path.s3tc="res://.godot/imported/body_in_bag_4.jpg-41d846b3bf26d2f3cb8b8446d278414d.s3tc.ctex"
+path.etc2="res://.godot/imported/body_in_bag_4.jpg-41d846b3bf26d2f3cb8b8446d278414d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/body_in_bag_4.jpg"
-dest_files=["res://.godot/imported/body_in_bag_4.jpg-41d846b3bf26d2f3cb8b8446d278414d.s3tc.ctex"]
+dest_files=["res://.godot/imported/body_in_bag_4.jpg-41d846b3bf26d2f3cb8b8446d278414d.s3tc.ctex", "res://.godot/imported/body_in_bag_4.jpg-41d846b3bf26d2f3cb8b8446d278414d.etc2.ctex"]
 
 [params]
 

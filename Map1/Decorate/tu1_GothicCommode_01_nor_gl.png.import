@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://jcdmtgnh678i"
 path.s3tc="res://.godot/imported/tu1_GothicCommode_01_nor_gl.png-8afea05fad090ad0892da7656e188e05.s3tc.ctex"
+path.etc2="res://.godot/imported/tu1_GothicCommode_01_nor_gl.png-8afea05fad090ad0892da7656e188e05.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/tu1_GothicCommode_01_nor_gl.png"
-dest_files=["res://.godot/imported/tu1_GothicCommode_01_nor_gl.png-8afea05fad090ad0892da7656e188e05.s3tc.ctex"]
+dest_files=["res://.godot/imported/tu1_GothicCommode_01_nor_gl.png-8afea05fad090ad0892da7656e188e05.s3tc.ctex", "res://.godot/imported/tu1_GothicCommode_01_nor_gl.png-8afea05fad090ad0892da7656e188e05.etc2.ctex"]
 
 [params]
 

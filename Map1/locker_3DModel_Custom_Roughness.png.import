@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://1ajiwr5pej18"
 path.s3tc="res://.godot/imported/locker_3DModel_Custom_Roughness.png-ae3655a8e473a7103a16827f46e89f7d.s3tc.ctex"
+path.etc2="res://.godot/imported/locker_3DModel_Custom_Roughness.png-ae3655a8e473a7103a16827f46e89f7d.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/locker_3DModel_Custom_Roughness.png"
-dest_files=["res://.godot/imported/locker_3DModel_Custom_Roughness.png-ae3655a8e473a7103a16827f46e89f7d.s3tc.ctex"]
+dest_files=["res://.godot/imported/locker_3DModel_Custom_Roughness.png-ae3655a8e473a7103a16827f46e89f7d.s3tc.ctex", "res://.godot/imported/locker_3DModel_Custom_Roughness.png-ae3655a8e473a7103a16827f46e89f7d.etc2.ctex"]
 
 [params]
 

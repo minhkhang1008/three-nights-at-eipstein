@@ -4,8 +4,9 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwq7vai0dk30h"
 path.s3tc="res://.godot/imported/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png-f5bcd8313d03ef532422c2af0b978e89.s3tc.ctex"
+path.etc2="res://.godot/imported/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png-f5bcd8313d03ef532422c2af0b978e89.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 generator_parameters={
@@ -15,7 +16,7 @@ generator_parameters={
 [deps]
 
 source_file="res://Map1/Decorate/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png"
-dest_files=["res://.godot/imported/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png-f5bcd8313d03ef532422c2af0b978e89.s3tc.ctex"]
+dest_files=["res://.godot/imported/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png-f5bcd8313d03ef532422c2af0b978e89.s3tc.ctex", "res://.godot/imported/dongho1_pendulumwallclock_Clocks_tablet_Metallic-pendulumwallclock_Clocks_tablet_Roughness.png-f5bcd8313d03ef532422c2af0b978e89.etc2.ctex"]
 
 [params]
 

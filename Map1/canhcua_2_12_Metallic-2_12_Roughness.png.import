@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://dankcjn44ea1m"
 path.s3tc="res://.godot/imported/canhcua_2_12_Metallic-2_12_Roughness.png-93b2c9f9c3b4402708daf120e44d5a87.s3tc.ctex"
+path.etc2="res://.godot/imported/canhcua_2_12_Metallic-2_12_Roughness.png-93b2c9f9c3b4402708daf120e44d5a87.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://Map1/canhcua_2_12_Metallic-2_12_Roughness.png"
-dest_files=["res://.godot/imported/canhcua_2_12_Metallic-2_12_Roughness.png-93b2c9f9c3b4402708daf120e44d5a87.s3tc.ctex"]
+dest_files=["res://.godot/imported/canhcua_2_12_Metallic-2_12_Roughness.png-93b2c9f9c3b4402708daf120e44d5a87.s3tc.ctex", "res://.godot/imported/canhcua_2_12_Metallic-2_12_Roughness.png-93b2c9f9c3b4402708daf120e44d5a87.etc2.ctex"]
 
 [params]
 
