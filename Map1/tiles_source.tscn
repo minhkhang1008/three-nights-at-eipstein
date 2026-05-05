@@ -1,0 +1,52 @@
+[gd_scene format=3 uid="uid://djdbnxsume8qi"]
+
+[ext_resource type="Texture2D" uid="uid://bflseb7ukc4n3" path="res://Map1/MatTrongNgoiNha.jpg" id="1_6ac36"]
+[ext_resource type="Texture2D" uid="uid://u5kbrnf0huoq" path="res://Map1/GachLatSanNha.png" id="2_6f7vr"]
+
+[sub_resource type="BoxMesh" id="BoxMesh_6f7vr"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_0mca7"]
+albedo_texture = ExtResource("1_6ac36")
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_5w03l"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tjh5y"]
+transparency = 1
+albedo_color = Color(0.52156866, 0.81960785, 1, 0.27450982)
+metallic = 0.3
+roughness = 0.0
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_5w03l"]
+albedo_texture = ExtResource("2_6f7vr")
+
+[node name="TilesSource" type="Node3D" unique_id=1979307265]
+
+[node name="Wall" type="MeshInstance3D" parent="." unique_id=349890448]
+transform = Transform3D(1, 0, 0, 0, 0.9922779, -0.12403446, 0, 0.12403446, 0.9922779, 0, 0, 0)
+mesh = SubResource("BoxMesh_6f7vr")
+surface_material_override/0 = SubResource("StandardMaterial3D_0mca7")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Wall" unique_id=91301906]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Wall/StaticBody3D" unique_id=1802345666]
+shape = SubResource("BoxShape3D_5w03l")
+
+[node name="Glass" type="MeshInstance3D" parent="." unique_id=1982753304]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.7400992, 0.5913898, 0.052389383)
+mesh = SubResource("BoxMesh_6f7vr")
+surface_material_override/0 = SubResource("StandardMaterial3D_tjh5y")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Glass" unique_id=331208095]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Glass/StaticBody3D" unique_id=1207905475]
+shape = SubResource("BoxShape3D_5w03l")
+
+[node name="Floor" type="MeshInstance3D" parent="." unique_id=591331686]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.686682, 0.16259527, -0.11533666)
+mesh = SubResource("BoxMesh_6f7vr")
+surface_material_override/0 = SubResource("StandardMaterial3D_5w03l")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Floor" unique_id=1325217442]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Floor/StaticBody3D" unique_id=1042671103]
+shape = SubResource("BoxShape3D_5w03l")

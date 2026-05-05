@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://cxeqe0jmqbnly"]
+
+[ext_resource type="Script" uid="uid://3uv1rhhukedi" path="res://auto_map_builder.gd" id="1_xxl8u"]
+
+[node name="AutoMapBuilder" type="Control" unique_id=1417369629]
+visible = false
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_xxl8u")

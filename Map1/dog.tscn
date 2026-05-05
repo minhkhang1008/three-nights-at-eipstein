@@ -1,0 +1,34 @@
+[gd_scene format=3 uid="uid://bf46o0yh55q7i"]
+
+[ext_resource type="Script" uid="uid://nvecpdcvb5t4" path="res://Map1/dog.gd" id="1_gyrij"]
+[ext_resource type="PackedScene" uid="uid://ck62sdukarbnx" path="res://Map1/dog.glb" id="2_km6w2"]
+[ext_resource type="AudioStream" uid="uid://ckbiy0vyudu5v" path="res://Map1/audio/BarkSound.mp3" id="3_g4ico"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_km6w2"]
+size = Vector3(1, 1.2115479, 1.5727539)
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_g4ico"]
+radius = 5.0
+
+[node name="Dog" type="CharacterBody3D" unique_id=978746404]
+script = ExtResource("1_gyrij")
+
+[node name="dog_model" parent="." unique_id=29002658 instance=ExtResource("2_km6w2")]
+transform = Transform3D(-0.9996337, 0, 0.027066827, 0, 1, 0, -0.027066827, 0, -0.9996337, 0, 0, 0)
+
+[node name="DogCollision" type="CollisionShape3D" parent="." unique_id=1685838234]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.5806513, -0.28637695)
+shape = SubResource("BoxShape3D_km6w2")
+
+[node name="DetectionRadar" type="Area3D" parent="." unique_id=1630112333]
+transform = Transform3D(0.8, 0, 0, 0, 0.8, 0, 0, 0, 0.8, 0, -1.8500133, -2.5137644)
+
+[node name="RadarShape" type="CollisionShape3D" parent="DetectionRadar" unique_id=603925557]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.44239348, 0)
+shape = SubResource("SphereShape3D_g4ico")
+
+[node name="BarkSound" type="AudioStreamPlayer3D" parent="." unique_id=89518708]
+stream = ExtResource("3_g4ico")
+max_distance = 15.0
+
+[connection signal="body_entered" from="DetectionRadar" to="." method="_on_detection_radar_body_entered"]

@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://4mu8rm1h8gyb"]
+
+[ext_resource type="Texture2D" uid="uid://wpj06fqweioo" path="res://Map1/cauthang_Smudges_01_4K.png" id="1_3lu3o"]
+
+[resource]
+resource_name = "metal_dark.002"
+cull_mode = 2
+albedo_texture = ExtResource("1_3lu3o")
+metallic = 1.0
+roughness = 0.3
+normal_enabled = true
+normal_texture = ExtResource("1_3lu3o")
